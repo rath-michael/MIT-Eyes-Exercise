@@ -21,5 +21,3 @@ To run and see this project, download locally, extract the files, and run the in
 
 ## Roadmap
 * In all honesty, there isn't much in the way of simple things I want to add to this project. In time I would like to apply the concepts for this project into my Pacman project, which can be located here https://github.com/rath-michael/mit-pacman-project
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rath-michael&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rath-michael/github-readme-stats)
